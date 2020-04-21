@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+    <!-- listas -->
+    <ul><LI>CARNIVORO</LI>
+        <ul>
+        <li>LEON</li>
+        <li>BUITRE</li>
+        <li>HIENA</li>
+        </ul>
+    </ul>
+    <ul><li>HERVIVORO</li>
+        <ul>
+        <li>CABRA</li>
+        <li>VACA</li>
+        </ul>
+    </ul>
+    <ul><li>OMNIVORO</li>
+        <ul>
+        <li>OSO</li>
+        <li>URRACA</li>
+        </ul>
+    </ul>
+
+
+</body>
+</html>
